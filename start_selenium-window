@@ -1,0 +1,2 @@
+java -Dwebdriver.gecko.drive=geckodriver-win32.exe -Dwebdriver.chrome.drive=chromedriver-win32.exe -jar selenium-server-standalone-3.141.59.jar -port 1030 </dev/null >/dev/null 2>&1 &
+
